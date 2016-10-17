@@ -5,8 +5,6 @@
 - [Official Resources](#official-resources)
 - [External Resources](#external-resources)
 - [Community](#community)
-- [Podcasts](#podcasts)
-- [Official Examples](#official-examples)
 - [Tutorials](#tutorials)
 - [Development Tools](#development-tools)
 - [Syntax Highlighting](#syntax-highlighting)
@@ -30,7 +28,6 @@
   - [Open Source](#open-source)
   - [Apps/Websites](#appswebsites)
   - [Interactive Experiences](#interactive-experiences)
-  - [Enterprise Usage](#enterprise-usage)
 
 ### Official Resources
 
@@ -38,6 +35,10 @@
 - [API Reference](http://vuejs.org/api/)
 - [GitHub Repo](https://github.com/vuejs/vue)
 - [Release Notes](https://github.com/vuejs/vue/releases)
+- [Basic Examples](http://vuejs.org/guide/)
+- [Vue.js TodoMVC](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
+  - [CoffeeScript Version ★5](https://github.com/anfelor/TodoMVC-CoffeeScript-and-Vue.js)
+- [**Vue.js HackerNews Clone ★1,277**](https://github.com/vuejs/vue-hackernews)
 
 ### External Resources
 
@@ -51,17 +52,9 @@
 - [Official Forum](http://forum.vuejs.org/)
 - [vue-requests ★27](https://github.com/vuejs/vue-requests) - Request a Vue.js module you wish existed or get ideas for modules
 
-### Official Examples
-
-- [Basic Examples](http://vuejs.org/guide/)
-- [Vue.js TodoMVC](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
-  - [CoffeeScript Version ★5](https://github.com/anfelor/TodoMVC-CoffeeScript-and-Vue.js)
-- [**Vue.js HackerNews Clone ★1,277**](https://github.com/vuejs/vue-hackernews)
-
 ### Tutorials
 
 - [Vue.js screencasts](https://laracasts.com/series/learning-vue-step-by-step) on Laracasts
-- [What's New in Vue.js 1.0](http://www.sitepoint.com/whats-new-in-vue-js-1-0/) on Sitepoint
 - [Build an App with Vue.js: From Authentication to Calling an API](https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/) on Auth0 blog
 - [Create a GitHub File Explorer Using Vue.js](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) on Scotch.io
 - [Vue.js Tutorial](http://vegibit.com/vue-js-tutorial/) on Vegibit
@@ -82,7 +75,7 @@
 - [Building a Bookmarking App with Electron, VueJs, and Firebase](http://coligo.io/bookmarking-app-electron-vuejs-firebase/) on Coligo.io
 - [Learn Vuex by Building a Notes App](https://coligo.io/learn-vuex-by-building-notes-app/) on Coligo.io
 - [Vue.js Screencast Series in Spanish](https://styde.net/curso-de-vue-js/) on Styde.net
-- [**讲解Vue.js 官网 中文-含代码、百度云、youtube ★277**](https://github.com/bhnddowinf/vuejs-learn) on bhnddowinf
+- [**讲解Vue.js 官网 中文-含代码、百度云、youtube **](https://github.com/bhnddowinf/vuejs-learn) on bhnddowinf
 - [Exploring Real Time Apps with VueJS, ES2015 and Webpack](https://blog.pusher.com/exploring-real-time-apps-with-vuejs-es2016-and-webpack/) on Pusher
 - [Vue.js in Bahasa Indonesia] (https://www.sekolahkoding.com/track/belajar-vue-js) on sekolahkoding.com
 - [Building a Mobile App with Cordova and Vue.js](https://coligo.io/building-a-mobile-app-with-cordova-vuejs/) on Coligo.io
@@ -93,18 +86,18 @@
 
 ### Development Tools
 
-- [**vue-cli ★1,115**](https://github.com/vuejs/vue-cli): official CLI for scaffolding Vue.js projects.
-- [**vue-loader ★643**](https://github.com/vuejs/vue-loader) - Vue component loader for Webpack.
-- [**vueify ★494**](https://github.com/vuejs/vueify) - Vue component transform for Browserify.
-- [**vue-devtools ★934**](https://github.com/vuejs/vue-devtools) - Chrome devtools extension for debugging Vue applications.
-- [grunt-vueify ★2](https://github.com/SkewedAspect/grunt-vueify) - Translate `.vue` files to pure JavaScript, without using Browserify. (Useful for Electron apps)
-- [vue-compiler ★2](https://github.com/paulpflug/vue-compiler) - A simple CLI wrapper around vueify
+- [**vue-cli **](https://github.com/vuejs/vue-cli): official CLI for scaffolding Vue.js projects.
+- [**vue-loader **](https://github.com/vuejs/vue-loader) - Vue component loader for Webpack.
+- [**vueify **](https://github.com/vuejs/vueify) - Vue component transform for Browserify.
+- [**vue-devtools **](https://github.com/vuejs/vue-devtools) - Chrome devtools extension for debugging Vue applications.
+- [grunt-vueify ](https://github.com/SkewedAspect/grunt-vueify) - Translate `.vue` files to pure JavaScript, without using Browserify. (Useful for Electron apps)
+- [vue-compiler ](https://github.com/paulpflug/vue-compiler) - A simple CLI wrapper around vueify
 - [vue-autocompile](https://atom.io/packages/vue-autocompile) - Atom.io package to compile `.vue` files on save.
-- [vue-dev-server ★5](https://github.com/paulpflug/vue-dev-server) - A small webpack-based development server for building standalone `vue` components
-- [vue-go-cli ★5](https://github.com/rodzzlessa24/vue-go-cli) - a CLI tool for scaffolding new projects generating components, services, and mixins.
-- [brunch-vue ★9](https://github.com/nblackburn/vue-brunch) - Adds support to Brunch for pre-compiling single file Vue components.
-- [vueify-extract-css ★23](https://github.com/rawcreative/vueify-extract-css) - Browserify plugin to extract css from Vueify-compiled single file components to a separate css file.
-- [eslint-plugin-vue ★29](https://github.com/Twiknight/eslint-plugin-vue) - Eslint plugin for .vue files.
+- [vue-dev-server ](https://github.com/paulpflug/vue-dev-server) - A small webpack-based development server for building standalone `vue` components
+- [vue-go-cli ](https://github.com/rodzzlessa24/vue-go-cli) - a CLI tool for scaffolding new projects generating components, services, and mixins.
+- [brunch-vue ](https://github.com/nblackburn/vue-brunch) - Adds support to Brunch for pre-compiling single file Vue components.
+- [vueify-extract-css ](https://github.com/rawcreative/vueify-extract-css) - Browserify plugin to extract css from Vueify-compiled single file components to a separate css file.
+- [eslint-plugin-vue ](https://github.com/Twiknight/eslint-plugin-vue) - Eslint plugin for .vue files.
 - [**vbuild ★119**](https://github.com/egoist/vbuild) - Preset build tool for Vue.js apps.
 - [vue-markdown-loader ★2](https://github.com/QingWei-Li/vue-markdown-loader) Convert Markdown file to Vue Component using markdown-it.
 - [vue-cluster](https://github.com/VueCluster/VueCluster) Official Vue2 Socketcluster server-less framework with examples.

@@ -497,6 +497,7 @@
   - [vue-lazyloadimg](https://github.com/yodfz/vue-lazyloadImg) lazy load image.
   - [vue-dropload](https://github.com/yodfz/m-dropload) drop down,refresh page data,and scroll to bottom load next datas.
   - [vue-reactivestorage ★15](https://github.com/ropbla9/vue-reactivestorage) Reactive layer for interacting with localStorage from Vue. Plugin for Vue 2.
+  - [Animate.css for Vue.js 2.0](https://github.com/asika32764/vue2-animate) - Animate.css for Vue.js 2.0 to help you do transitions
 
 - #### SEO
 

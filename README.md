@@ -1,6 +1,6 @@
 ## Awesome Vue.js 
 
-> A curated list of awesome things related to Vue.js by [Mandeep Singh](https://www.msingh.me)
+> A curated list of awesome packages, tutorials and other cool resources for Vue.js
 
 - [Official Resources](#official-resources)
 - [External Resources](#external-resources)
@@ -83,6 +83,7 @@
 - [Створення сервісу для зберігання файлів з Flask, RethinkDB та Vue.js, ч. 1](http://codeguida.com/post/526/) Ukraine
 - [VueJS 2 French tutorial](https://www.youtube.com/playlist?list=PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0) Français par Grafikart
 - [Jayway Vue.js workshop. Build an e-commerce site with vue-router, vuex and vue-resource](https://github.com/jayway/vue-js-workshop)
+- [What's new in Vue.js 2 : Transitions ](https://medium.com/js-dojo/whats-new-in-vue-js-2-0-transitions-9db8f7a0dfe3)
 
 ### Development Tools
 

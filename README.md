@@ -406,6 +406,7 @@
   - [bourgeon ★9](https://github.com/rayfranco/bourgeon) Vue 2.0 template for vue-cli based on webpack including stylus (jeet, rupture, typus), vuex, I18n, routing and SVG sprites.
   - [vue-ssr-hmr-template ★42](https://github.com/hilongjw/vue-ssr-hmr-template) Vue2 + Webpack2 + HMR + Server Side Render + Express template by [@Awe](https://github.com/hilongjw)
   - [Vuejs Starter Kit 2 ★12] (https://github.com/MetinSeylan/VuejsStarterKit) Vue 2.0 modern application structure [MetinSeylan](https://github.com/MetinSeylan)
+  - [AdonisJS + Vue.js](https://github.com/Atinux/vue-adonis) Boilerplate for using AdonisJS + Vue.js with server-side rendering
 
 - #### Scaffolding
 

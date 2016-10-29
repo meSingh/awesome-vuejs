@@ -105,6 +105,7 @@
 - [vue-ts-loader](https://github.com/HerringtonDarkholme/vue-ts-loader) ![vue-ts-loader](https://img.shields.io/github/stars/HerringtonDarkholme/vue-ts-loader.svg?style=social&label=Star&maxAge=2592000) A webpack loader for loading TypeScript in `.vue`'s single file component
 - [express-vue](https://github.com/danmademe/express-vue) Vue rendering engine for Express.js load .vue files directly using app.render()
 - [vue-play ★53](https://github.com/egoist/vue-play) - UI Component Dev Environment for Vue inspired by [react-storybook](https://github.com/kadirahq/react-storybook).
+- [vue-form-generator](https://github.com/icebob/vue-form-generator) - A schema-based form generator component for Vue.js
 
 ### Syntax Highlighting
 

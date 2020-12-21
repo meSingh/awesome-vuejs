@@ -84,6 +84,8 @@
 - [VueJS 2 French tutorial](https://www.youtube.com/playlist?list=PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0) Français par Grafikart
 - [Jayway Vue.js workshop. Build an e-commerce site with vue-router, vuex and vue-resource](https://github.com/jayway/vue-js-workshop)
 - [What's new in Vue.js 2 : Transitions ](https://medium.com/js-dojo/whats-new-in-vue-js-2-0-transitions-9db8f7a0dfe3)
+- [Building a VueJS chat app with realtime storage of messages in Airtable](https://www.ably.io/blog/airtable-database-realtime-messages) by [Srushtika Neelakantam](https://twitter.com/Srushtika) (December 2020)
+- [Building a realtime quiz with VueJS using a starter kit](https://github.com/ably-labs/realtime-quiz-framework/blob/main/TUTORIAL.md) by [Srushtika Neelakantam](https://twitter.com/Srushtika) (October 2020)
 
 ### Development Tools
 
